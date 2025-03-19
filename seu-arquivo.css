@@ -44,7 +44,7 @@ section#login {
 
 /* ===== Parte da Imagem ===== */
 section#login > div#imagem {
-    background: url('https://via.placeholder.com/500') no-repeat center center;
+    background: url no-repeat center center;
     background-size: cover;
     width: 30%;
 }
